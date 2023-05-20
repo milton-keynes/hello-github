@@ -2,7 +2,6 @@
 
 just say hello.
 
-editing...
 edited!
 
 NO!!!
